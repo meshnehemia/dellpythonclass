@@ -15,6 +15,5 @@ class Square(Shape):
 
 r = Rectangle()
 s = Square()
-
 r.draw()
 s.draw()
